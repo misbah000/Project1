@@ -1,10 +1,13 @@
-Hasil Storiming Pertama
+**Hasil Storming Pertama**
 
-Sumber data : Repository Prodi IAT 5 Universitas; UIN Yogya, UIN Surabaya, UIN Malang, UIN Bandung, UIN Tulungagung, UIN Surakarta, UIN Semarang (2006-2024)
+Sumber data : Repository Prodi IAT 5 Universitas; UIN Yogya, UIN Surabaya, UIN Malang, UIN Bandung, UIN Tulungagung, UIN Surakarta, UIN Semarang (2006-2024) [(Link)](https://github.com/misbah000/Project1/blob/main/data_kumpulan_artikel.txt) 
 
 Metode yang Di lakukan;
+
 a. pengumpulan dan kurasi data dengan download hasil eksport dari repository, berbentuk bibliografi referensi
+
 b. data yang diambil; mayoritas judul skripsi saja
+
 c. untuk pemprosesan dan pembersihan data memakai nltk, dan pengolahan serta visualisasi memakai Voyant
 
 Hipotesis yang Memungkinkan Diuji
